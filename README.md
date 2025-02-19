@@ -8,6 +8,7 @@ Synesis.AI is your personal trade analyst, risk mitigation expert, and trading j
 - **Personal Journal**: Keep track of your trades and the rationale behind them.
 - **Powerful Sentiment Analysis**: Our AI scrapes thousands of social media posts to gauge market sentiment.
 - **AI-Driven Insights**: Get alerts on potential market trends, profit opportunities, and risk mitigation strategies.
+- **Simplicity** : No fancy designs, easy to use ui.
 - **Dont't forget to check the presentation** [Pitch Presentation](Pitch%20Presentation.pdf)
 ## Tech Stack
 
